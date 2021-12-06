@@ -1,18 +1,18 @@
-using BasicBilling.DAL.Interfaces;
-using BasicBilling.Service;
-using BasicBilling.Service.Interfaces;
-using FluentValidation;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Models;
-using Moq;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using Xunit;
-
 namespace BasicBilling.API.Controllers.Tests
 {
+    using BasicBilling.DAL.Interfaces;
+    using BasicBilling.Service;
+    using BasicBilling.Service.Interfaces;
+    using FluentValidation;
+    using Microsoft.AspNetCore.Http;
+    using Microsoft.AspNetCore.Mvc;
+    using Models;
+    using Moq;
+    using System;
+    using System.Collections.Generic;
+    using System.Threading.Tasks;
+    using Xunit;
+
     public class ClientsControllerTests
     {
         private readonly ClientsController controller;
@@ -37,21 +37,10 @@ namespace BasicBilling.API.Controllers.Tests
 
         [Theory]
         [MemberData(nameof(ValidGetClientBills))]
-        public void Get_ValidClientBills_ReturnsOK( int scheduleId)
+        public void Get_ValidClientBills_ReturnsOK( int clientId)
         {
             this.BasicBillingServiceMock.Setup(x => x.GetBillsByClientAsync(It.IsAny<int>(), It.IsAny<bool>())).Returns(Task.FromResult(ValidBillsResultsResponse()));
-            var result = this.controller.GetClientBills(scheduleId);
-
-            Assert.IsType<OkObjectResult>(result);
-        }
-
-        [Theory]
-        [MemberData(nameof(ValidGetClientBills))]
-        public void Get_ValidClientBills_ReturnsNoContent(int scheduleId)
-        {
-            IEnumerable<Bill> emptyResponse = null;
-            this.BasicBillingServiceMock.Setup(x => x.GetBillsByClientAsync(It.IsAny<int>(), It.IsAny<bool>())).Returns(Task.FromResult(emptyResponse));
-            var result = this.controller.GetClientBills(scheduleId);
+            var result = this.controller.GetClientBills(clientId);
 
             Assert.IsType<OkObjectResult>(result);
         }
@@ -107,7 +96,7 @@ namespace BasicBilling.API.Controllers.Tests
         public void Post_ValidClientPayments_ReturnsBadRequest()
         {
             this.BasicBillingServiceMock.Setup(x => x.PostClientPaymentAsync(It.IsAny<ClientPaymentRequest>())).Throws(new ValidationException(string.Empty));
-            var result = this.controller.PostClientPayment(1, new ClientPaymentRequest() { Amount = 10, BillType = "Electricity", ClientId = 1, Date = DateTime.Now });
+            var result = this.controller.PostClientPayment(1, It.IsAny<ClientPaymentRequest>());
 
             Assert.IsType<BadRequestObjectResult>(result);
         }

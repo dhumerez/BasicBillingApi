@@ -7,6 +7,7 @@
     using Models;
     using System;
     using System.Collections.Generic;
+    using System.Threading.Tasks;
 
     [Route("[controller]")]
     [ApiController]
@@ -46,7 +47,7 @@
                 payment.ClientId = id;
                 return Ok(service.PostClientPaymentAsync(payment).Result);
             }
-            catch(ValidationException ex)
+            catch (ValidationException ex)
             {
                 return BadRequest(ex.Message);
             }

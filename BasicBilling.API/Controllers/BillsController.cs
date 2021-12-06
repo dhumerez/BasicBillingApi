@@ -23,14 +23,18 @@
         [HttpGet]
         public IActionResult GetBills()
         {
-            return Ok(service.GetBillsAsync().Result);
+            var result = service.GetBillsAsync().Result;
+            if (result == null) { return NotFound(); }
+            return Ok(result);
         }
 
         // GET <BillsController>/1/payments
         [HttpGet("{billId}/payments")]
         public IActionResult GetBillPayments(int billId)
         {
-            return Ok(service.GetBillPaymentsAsync(billId).Result);
+            var result = service.GetBillPaymentsAsync(billId).Result;
+            if (result == null) { return NotFound(); }
+            return Ok(result);
         }
 
         // POST <BillsController>/1/payments
