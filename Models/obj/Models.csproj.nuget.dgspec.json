@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj": {}
+    "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj": {
+    "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj",
+        "projectUniqueName": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj",
+        "projectPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\obj\\",
+        "outputPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",

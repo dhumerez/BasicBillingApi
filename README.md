@@ -12,14 +12,14 @@ It contains basic behaviour of a Billing system. It includes:
  - Post Bill Payment
 
 # Setup
-First run the attached sql file ("**BasicBillingApi.sql**") that will set your DB locally, it can also be done througt "updated-database" in the Package Manager console since a migration is already set on the project, but before running the command a valid DB has to be specified on the connection string.
+First run the attached sql file ("**BasicBillingApi.sql**") that will set your DB locally after that to set the tables and some data please restore the new DB with the file "BasicBillingBackUp", it can also be done througt "updated-database" in the Package Manager console since a migration is already set on the project, but before running the command a valid DB has to be specified on the connection string. If the process is done througt the migration, the seed process will happen automatically once the project is run for the first time
 
 Check your connection string, it is located on the BasicBilling.API project, inside the appsettings.json file, if you use your local DB no changes should be made.
 
 
 ## Test the project
 
-In order to run the project you can do it from visual studio or througt comand line, in order to run it in comand line you have to go to the directory where the project is located, then you just have to write "**dotnet run**" and a console will be displayed with the available port.
+In order to run the project you can do it from visual studio or througt comand line, in order to run it in comand line you have to go to the BasicBilling.API directory, then you just have to write "**dotnet run**" and a console will be displayed with the available port.
 
 Attached is also a Postman Collection that contains requests for all the available enpoints. Its name is "**BasicBilling.postman_collection**", you can import it to your local postman, change the port number if needed.
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZJsO+0UjsDrfM/+CwxZtPdRVVLwRYn8PgZnzlXEJrgw6VDgFYZH0KiQ+DHCkYiDBptkhy4vgTBZAvY6Z/vFSw==",
+  "dgSpecHash": "MtyBylhWjQQp2z/g5NSkd3vRPjdDW1bDtAjaJJqnLDrPun2it/vfzloqJEuNnLafM+EVuwTAjKICHlZTXQ7TFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj",
+  "projectFilePath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

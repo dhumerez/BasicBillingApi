@@ -7,3 +7,13 @@ C:\Users\diego\source\repos\BasicBilling.API\Models\obj\Debug\netcoreapp3.1\Mode
 C:\Users\diego\source\repos\BasicBilling.API\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
 C:\Users\diego\source\repos\BasicBilling.API\Models\obj\Debug\netcoreapp3.1\Models.dll
 C:\Users\diego\source\repos\BasicBilling.API\Models\obj\Debug\netcoreapp3.1\Models.pdb
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\bin\Debug\netcoreapp3.1\Models.dll
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\bin\Debug\netcoreapp3.1\Models.pdb
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\obj\Debug\netcoreapp3.1\Models.dll
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\Models\obj\Debug\netcoreapp3.1\Models.pdb

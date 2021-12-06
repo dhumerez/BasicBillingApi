@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hgZxrBoPQGWkeKw3/DXGn9fbATXBMuRnwQ8atwVfPDmUTofn/S0zIA3NOyNuSPcGTVCsHSiwjrhMP5BPuznG5Q==",
+  "dgSpecHash": "Y8dGq6wnmSpn1YbZPrU/RK4x7DVbgC3HSN+Xny/Er2G2BXV6D5urhPcDlN4ykAANZQbMmSQerYqNcMq9cOBVIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.Services\\BasicBilling.Services.csproj",
+  "projectFilePath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.Services\\BasicBilling.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.5\\fluentvalidation.aspnetcore.10.3.5.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VwSV2KY+6un/se7x9pk779VxTWxewIOFDt9qfhk3QQnL+YGTWM1H302fPQCmUk84THtpsMhzkRWY0zaYIDvvJA==",
+  "dgSpecHash": "FU0Wlhlutfy2OINCLtnkswDnUNOLD5OWmri8T/cDFciBGG4iEsKXiv+mDspln0eVd4AZSJovqpdGEyzMAz/pxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.DAL\\BasicBilling.DAL.csproj",
+  "projectFilePath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.DAL\\BasicBilling.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

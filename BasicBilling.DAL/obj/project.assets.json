@@ -5725,11 +5725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.DAL\\BasicBilling.DAL.csproj",
+      "projectUniqueName": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.DAL\\BasicBilling.DAL.csproj",
       "projectName": "BasicBilling.DAL",
-      "projectPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.DAL\\BasicBilling.DAL.csproj",
+      "projectPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.DAL\\BasicBilling.DAL.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.DAL\\obj\\",
+      "outputPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5746,8 +5746,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj"
+            "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj": {
+              "projectPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj"
             }
           }
         }

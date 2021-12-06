@@ -11,3 +11,16 @@ C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcorea
 C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.csproj.CopyComplete
 C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.dll
 C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.pdb
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\bin\Debug\netcoreapp3.1\BasicBilling.DAL.deps.json
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\bin\Debug\netcoreapp3.1\BasicBilling.DAL.dll
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\bin\Debug\netcoreapp3.1\BasicBilling.DAL.pdb
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\bin\Debug\netcoreapp3.1\Models.dll
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\bin\Debug\netcoreapp3.1\Models.pdb
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.csproj.AssemblyReference.cache
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.AssemblyInfoInputs.cache
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.AssemblyInfo.cs
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.csproj.CoreCompileInputs.cache
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.csproj.CopyComplete
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.dll
+F:\ITSTest\ITSBasicBilling\BasicBillingApi\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.pdb

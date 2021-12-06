@@ -5956,11 +5956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.API\\BasicBilling.API.csproj",
+      "projectUniqueName": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.API\\BasicBilling.API.csproj",
       "projectName": "BasicBilling.API",
-      "projectPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.API\\BasicBilling.API.csproj",
+      "projectPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.API\\BasicBilling.API.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.API\\obj\\",
+      "outputPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5977,14 +5977,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.DAL\\BasicBilling.DAL.csproj": {
-              "projectPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.DAL\\BasicBilling.DAL.csproj"
+            "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.DAL\\BasicBilling.DAL.csproj": {
+              "projectPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.DAL\\BasicBilling.DAL.csproj"
             },
-            "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.Services\\BasicBilling.Services.csproj": {
-              "projectPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\BasicBilling.Services\\BasicBilling.Services.csproj"
+            "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.Services\\BasicBilling.Services.csproj": {
+              "projectPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\BasicBilling.Services\\BasicBilling.Services.csproj"
             },
-            "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\diego\\source\\repos\\BasicBilling.API\\Models\\Models.csproj"
+            "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj": {
+              "projectPath": "F:\\ITSTest\\ITSBasicBilling\\BasicBillingApi\\Models\\Models.csproj"
             }
           }
         }
