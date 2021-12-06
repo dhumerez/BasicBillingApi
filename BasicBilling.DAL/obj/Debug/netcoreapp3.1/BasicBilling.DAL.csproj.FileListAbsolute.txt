@@ -1,0 +1,13 @@
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\bin\Debug\netcoreapp3.1\BasicBilling.DAL.deps.json
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\bin\Debug\netcoreapp3.1\BasicBilling.DAL.dll
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\bin\Debug\netcoreapp3.1\BasicBilling.DAL.pdb
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.AssemblyInfo.cs
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.csproj.CopyComplete
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.dll
+C:\Users\diego\source\repos\BasicBilling.API\BasicBilling.DAL\obj\Debug\netcoreapp3.1\BasicBilling.DAL.pdb
