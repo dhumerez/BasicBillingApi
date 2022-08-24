@@ -12,7 +12,7 @@ It contains basic behaviour of a Billing system. It includes:
  - Post Bill Payment
 
 # Setup
-First run the attached sql file ("**BasicBillingApi.sql**") that will set your DB locally after that to set the tables and some data please restore the new DB with the file "BasicBillingBackUp", it can also be done througt "updated-database" in the Package Manager console since a migration is already set on the project, but before running the command a valid DB has to be specified on the connection string. If the process is done througt the migration, the seed process will happen automatically once the project is run for the first time
+First run the attached sql file ("**BasicBillingApi.sql**") that will set your DB locally after that to set the tables and some data please restore the new DB with the file "BasicBillingBackUp", it can also be done througt "update-database" in the Package Manager console since a migration is already set on the project, but before running the command a valid DB has to be specified on the connection string. If the process is done througt the migration, the seed process will happen automatically once the project is run for the first time
 
 Check your connection string, it is located on the BasicBilling.API project, inside the appsettings.json file, if you use your local DB no changes should be made.
 
